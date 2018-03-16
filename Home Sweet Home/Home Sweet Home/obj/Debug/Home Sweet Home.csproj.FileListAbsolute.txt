@@ -1,0 +1,10 @@
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human–computer interaction(Virvou)\SmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\bin\Debug\Home Sweet Home.exe.config
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human–computer interaction(Virvou)\SmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\bin\Debug\Home Sweet Home.exe
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human–computer interaction(Virvou)\SmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\bin\Debug\Home Sweet Home.pdb
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human–computer interaction(Virvou)\SmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Debug\Home Sweet Home.csprojResolveAssemblyReference.cache
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human–computer interaction(Virvou)\SmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Debug\Home_Sweet_Home.Properties.Resources.resources
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human–computer interaction(Virvou)\SmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Debug\Home Sweet Home.csproj.GenerateResource.Cache
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human–computer interaction(Virvou)\SmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Debug\Home Sweet Home.exe
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human–computer interaction(Virvou)\SmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Debug\Home Sweet Home.pdb
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human–computer interaction(Virvou)\SmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Debug\Home_Sweet_Home.menu_form.resources
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human–computer interaction(Virvou)\SmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Debug\Home_Sweet_Home.my_icebox.resources

@@ -1,0 +1,18 @@
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human_computer interaction(Virvou)\HomeSmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\bin\Release\Home Smart Home.exe.config
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human_computer interaction(Virvou)\HomeSmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\bin\Release\Home Smart Home.exe
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human_computer interaction(Virvou)\HomeSmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\bin\Release\Home Smart Home.pdb
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human_computer interaction(Virvou)\HomeSmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Release\Home_Smart_Home.e_kettle.resources
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human_computer interaction(Virvou)\HomeSmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Release\Home_Smart_Home.lights_out.resources
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human_computer interaction(Virvou)\HomeSmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Release\Home_Smart_Home.fridgeList.resources
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human_computer interaction(Virvou)\HomeSmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Release\Home_Smart_Home.get_food_to_eat.resources
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human_computer interaction(Virvou)\HomeSmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Release\Home_Smart_Home.help.resources
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human_computer interaction(Virvou)\HomeSmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Release\Home_Smart_Home.menu_form.resources
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human_computer interaction(Virvou)\HomeSmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Release\Home_Smart_Home.icebox.resources
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human_computer interaction(Virvou)\HomeSmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Release\Home_Smart_Home.Properties.Resources.resources
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human_computer interaction(Virvou)\HomeSmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Release\Home_Smart_Home.recipes.resources
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human_computer interaction(Virvou)\HomeSmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Release\Home_Smart_Home.settings.resources
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human_computer interaction(Virvou)\HomeSmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Release\Home_Smart_Home.supermarket_selection.resources
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human_computer interaction(Virvou)\HomeSmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Release\Home_Smart_Home.temp_humid.resources
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human_computer interaction(Virvou)\HomeSmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Release\Home Smart Home.csproj.GenerateResource.Cache
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human_computer interaction(Virvou)\HomeSmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Release\Home Smart Home.exe
+C:\Users\Pumbaa\Documents\$UNIPI\3Junior\5th Semester\Human_computer interaction(Virvou)\HomeSmartHome(ex.2017)\Home Sweet Home\Home Sweet Home\obj\Release\Home Smart Home.pdb
