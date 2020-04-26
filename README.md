@@ -1,2 +1,2 @@
 # Home-Smart-Home
-smart home simulation app
+A smart home simulation app, developed using Windows Forms Application.
